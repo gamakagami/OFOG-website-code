@@ -43,48 +43,122 @@
                         
                         <!-- Card Body -->
                         <div class="card-body p-5">
-                            <!-- Contact Information View -->
-                            <div id="contact-view" class="card-content">
-                                <div class="row h-100">
-                                    <div class="col-12 d-flex justify-content-center align-items-center">
-                                        <div class="contact-group d-flex align-items-center">
-                                            <div class="logo-section me-4">
-                                                <img src="assets/img/organization-logo/HIMTI.png" alt="HIMTI Logo" class="img-fluid" style="max-width: 250px;">
-                                            </div>
-                                            <div class="contact-info ms-3">
-                                                <div class="d-flex align-items-center mb-4">
-                                                    <i class="fas fa-globe text-primary me-3 fa-lg"></i>
-                                                    <div>
-                                                        <strong>Website</strong><br>
-                                                        <a href="https://www.himti.or.id" class="text-decoration-none">www.himti.or.id</a>
-                                                    </div>
-                                                </div>
-                                                <div class="d-flex align-items-center mb-4">
-                                                    <i class="fas fa-envelope text-primary me-3 fa-lg"></i>
-                                                    <div>
-                                                        <strong>Email</strong><br>
-                                                        <a href="mailto:mail@himti.or.id" class="text-decoration-none">mail@himti.or.id</a>
-                                                    </div>
-                                                </div>
-                                                <div class="d-flex align-items-center mb-4">
-                                                    <i class="fab fa-facebook text-primary me-3 fa-lg"></i>
-                                                    <div>
-                                                        <strong>Facebook</strong><br>
-                                                        <a href="https://www.facebook.com/himtibinus/" class="text-decoration-none">@himtibinus</a>
-                                                    </div>
-                                                </div>
-                                                <div class="d-flex align-items-center">
-                                                    <i class="fab fa-instagram text-primary me-3 fa-lg"></i>
-                                                    <div>
-                                                        <strong>Instagram</strong><br>
-                                                        <a href="https://instagram.com/himti_binus" class="text-decoration-none">@himti_binus</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                                                         <!-- Contact Information View -->
+                             <div id="contact-view" class="card-content">
+                                 <div class="row h-100">
+                                     <!-- Organization Logo Section -->
+                                     <div class="col-12 text-center mb-4">
+                                         <img src="assets/img/organization-logo/HIMTI.png" alt="HIMTI Logo" class="img-fluid mb-3" style="max-width: 200px;">
+                                         <h4 class="text-primary fw-bold">HIMTI BINUS University</h4>
+                                         <p class="text-muted">Get in touch with us through any of these channels</p>
+                                     </div>
+                                     
+                                     <!-- Contact Cards Row 1 -->
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fas fa-globe fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">Website</h5>
+                                                     <p class="mb-0 opacity-75">Visit our official website</p>
+                                                 </div>
+                                             </div>
+                                             <a href="https://www.himti.or.id" target="_blank" class="btn btn-light btn-sm w-100">
+                                                 <i class="fas fa-external-link-alt me-2"></i>www.himti.or.id
+                                             </a>
+                                         </div>
+                                     </div>
+
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fas fa-envelope fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">Email</h5>
+                                                     <p class="mb-0 opacity-75">Send us a message</p>
+                                                 </div>
+                                             </div>
+                                             <a href="mailto:mail@himti.or.id" class="btn btn-light btn-sm w-100">
+                                                 <i class="fas fa-paper-plane me-2"></i>mail@himti.or.id
+                                             </a>
+                                         </div>
+                                     </div>
+
+                                     <!-- Contact Cards Row 2 -->
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fab fa-facebook fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">Facebook</h5>
+                                                     <p class="mb-0 opacity-75">Follow us on Facebook</p>
+                                                 </div>
+                                             </div>
+                                             <a href="https://www.facebook.com/himtibinus/" target="_blank" class="btn btn-light btn-sm w-100">
+                                                 <i class="fab fa-facebook me-2"></i>@himtibinus
+                                             </a>
+                                         </div>
+                                     </div>
+
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fab fa-instagram fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">Instagram</h5>
+                                                     <p class="mb-0 opacity-75">Follow us on Instagram</p>
+                                                 </div>
+                                             </div>
+                                             <a href="https://instagram.com/himti_binus" target="_blank" class="btn btn-light btn-sm w-100">
+                                                 <i class="fab fa-instagram me-2"></i>@himti_binus
+                                             </a>
+                                         </div>
+                                     </div>
+
+                                     <!-- Additional Contact Cards -->
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fab fa-twitter fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">Twitter</h5>
+                                                     <p class="mb-0 opacity-75">Follow us on Twitter</p>
+                                                 </div>
+                                             </div>
+                                             <a href="https://twitter.com/himti_binus" target="_blank" class="btn btn-light btn-sm w-100">
+                                                 <i class="fab fa-twitter me-2"></i>@himti_binus
+                                             </a>
+                                         </div>
+                                     </div>
+
+                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
+                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); transition: all 0.3s ease;">
+                                             <div class="d-flex align-items-center mb-3">
+                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
+                                                     <i class="fab fa-linkedin fa-2x"></i>
+                                                 </div>
+                                                 <div>
+                                                     <h5 class="fw-bold mb-1">LinkedIn</h5>
+                                                     <p class="mb-0 opacity-75">Connect with us on LinkedIn</p>
+                                                 </div>
+                                             </div>
+                                             <a href="https://linkedin.com/company/himti-binus" target="_blank" class="btn btn-light btn-sm w-100">
+                                                 <i class="fab fa-linkedin me-2"></i>HIMTI BINUS
+                                             </a>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
 
                             <!-- Campus Locations View -->
                             <div id="campus-view" class="card-content" style="display: none;">
