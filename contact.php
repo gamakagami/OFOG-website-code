@@ -122,41 +122,6 @@
                                              </a>
                                          </div>
                                      </div>
-
-                                     <!-- Additional Contact Cards -->
-                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
-                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); transition: all 0.3s ease;">
-                                             <div class="d-flex align-items-center mb-3">
-                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
-                                                     <i class="fab fa-twitter fa-2x"></i>
-                                                 </div>
-                                                 <div>
-                                                     <h5 class="fw-bold mb-1">Twitter</h5>
-                                                     <p class="mb-0 opacity-75">Follow us on Twitter</p>
-                                                 </div>
-                                             </div>
-                                             <a href="https://twitter.com/himti_binus" target="_blank" class="btn btn-light btn-sm w-100">
-                                                 <i class="fab fa-twitter me-2"></i>@himti_binus
-                                             </a>
-                                         </div>
-                                     </div>
-
-                                     <div class="col-lg-6 col-md-6 col-12 mb-4">
-                                         <div class="h-100 p-4 border-0 rounded-4 shadow-sm text-white" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); transition: all 0.3s ease;">
-                                             <div class="d-flex align-items-center mb-3">
-                                                 <div class="me-3" style="width: 60px; height: 60px; background: rgba(255, 255, 255, 0.2); border-radius: 15px; display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255, 255, 255, 0.3);">
-                                                     <i class="fab fa-linkedin fa-2x"></i>
-                                                 </div>
-                                                 <div>
-                                                     <h5 class="fw-bold mb-1">LinkedIn</h5>
-                                                     <p class="mb-0 opacity-75">Connect with us on LinkedIn</p>
-                                                 </div>
-                                             </div>
-                                             <a href="https://linkedin.com/company/himti-binus" target="_blank" class="btn btn-light btn-sm w-100">
-                                                 <i class="fab fa-linkedin me-2"></i>HIMTI BINUS
-                                             </a>
-                                         </div>
-                                     </div>
                                  </div>
                              </div>
 
@@ -202,7 +167,7 @@
                                     <div class="col-lg-4 col-md-6 col-12 mb-4">
                                         <div class="campus-card h-100 p-4 border rounded-3 shadow-sm">
                                             <div class="d-flex align-items-start mb-3">
-                                                <i class="fas fa-university text-primary me-3 fa-3x"></i>
+                                                <i class="fas fa-university text-primary me-3 fa-2x"></i>
                                                 <div>
                                                     <h5 class="fw-bold text-primary mb-2">Senayan Campus</h5>
                                                     <p class="text-muted mb-0">FX Sudirman Lantai 6</p>
